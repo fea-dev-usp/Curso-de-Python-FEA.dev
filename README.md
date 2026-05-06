@@ -1,4 +1,4 @@
-# Curso de Python FEA.dev
+# Curso de Python - FEA.dev
 
 Este curso visa introduzir a linguagem de programação Python, saindo do zero ao intermediário - feito por alunos da FEA-USP e IME-USP.
 
