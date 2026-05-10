@@ -2,7 +2,7 @@
   <img src="https://github.com/Tiago745/curso-de-python-2026/blob/main/banner.png" width="100%">
 </p>
 
-# Curso de Python - FEA.dev
+# Curso de Python
 
 Este curso visa introduzir a linguagem de programação Python, do zero ao intermediário - feito por alunos da FEA-USP e IME-USP.
 
