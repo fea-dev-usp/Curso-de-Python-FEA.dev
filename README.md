@@ -11,7 +11,7 @@ O modelo é um _self-study course_ dividido em aulas gravadas, materiais de cons
 Curso feito por:
 - Felipe Santana (Material Aula 3 ; Listas 2, 4 e 6) : https://www.linkedin.com/in/felipe-santana-fs/
 - Gabriel Finamore (Material Aula 6 ; Listas 1, 3 e 5) : https://www.linkedin.com/in/gabrielfinamore7/
-- Gustavo Katsuo (Material Aula 1 e Gravação Aula 1) : https://www.linkedin.com/in/gustavokatsuo/
-- Lucas Pataluch (Material Aula 2 e Gravação Aula 2) : https://www.linkedin.com/in/lucas-pataluch/ 
-- Rodrigo Catto (Material Aula 6 e Gravação Aulas 5 e 6) : https://www.linkedin.com/in/rodrigo-catto-menin/
-- Tiago Toledo (Material Aula 4 e Gravação Aulas 3 e 4) : https://www.linkedin.com/in/tiagotoledo1/
+- Gustavo Katsuo (Material Aula 1 ; Gravação Aula 1) : https://www.linkedin.com/in/gustavokatsuo/
+- Lucas Pataluch (Material Aula 2 ; Gravação Aula 2) : https://www.linkedin.com/in/lucas-pataluch/ 
+- Rodrigo Catto (Material Aula 6 ; Gravação Aulas 5 e 6) : https://www.linkedin.com/in/rodrigo-catto-menin/
+- Tiago Toledo (Material Aula 4 ; Gravação Aulas 3 e 4) : https://www.linkedin.com/in/tiagotoledo1/
