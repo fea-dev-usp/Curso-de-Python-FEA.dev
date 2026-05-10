@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%">
+  <img src="https://github.com/fea-dev-usp/Curso-de-Python-FEA.dev/blob/main/banner.png" width="100%">
 </p>
 
 # Curso de Python - FEA.dev
