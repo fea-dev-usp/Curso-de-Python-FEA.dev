@@ -1,0 +1,27 @@
+# Curso de Python FEA.dev - dependencias do material
+#
+# Requer Python 3.9 ou superior.
+#
+# Instalacao (a partir da raiz do repositorio):
+#     python -m venv .venv
+#     source .venv/bin/activate        # Windows: .venv\Scripts\activate
+#     pip install -r requirements.txt
+#
+# No Google Colab nada precisa ser instalado: todas as bibliotecas
+# abaixo ja vem disponiveis no ambiente.
+
+# --- bibliotecas usadas nas aulas e nas listas ---
+numpy>=1.24
+pandas>=1.5
+matplotlib>=3.6
+seaborn>=0.12
+
+# leitura dos arquivos .xlsx com pd.read_excel (Aulas 5 e 6, Listas 5 e 6)
+openpyxl>=3.0
+
+# necessario para sns.kdeplot (Aula 6); o seaborn nao instala por padrao
+scipy>=1.10
+
+# --- para rodar os notebooks localmente ---
+notebook>=6.5
+ipykernel>=6.20
